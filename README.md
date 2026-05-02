@@ -6,7 +6,7 @@ LearnTrack is a **console-based Java application** designed to manage:
 
 - Students
 - Courses
-- Enrollments
+- Enrollments.
 
 The application allows users (admins) to:
 
